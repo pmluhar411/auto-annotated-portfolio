@@ -4,7 +4,7 @@ title: Prasad Luhar
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/contact.jpg
+  url: /images/gallery-1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
