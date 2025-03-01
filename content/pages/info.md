@@ -298,18 +298,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **Current**
 
-          * ba computer sciense at a semi fancy school
+          *   University College Birmingham
 
-          **2014**
+          **2023**
 
-          * react certificate somewhere
+          *   Ganpat University
 
-          **2011**
+          **2019**
 
-          * my highschool
+          *   12th Science
+
         styles:
           self:
             textAlign: left
