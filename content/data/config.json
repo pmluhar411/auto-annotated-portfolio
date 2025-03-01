@@ -77,12 +77,13 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "+44 772199 1717",
-            "phoneAltText": "My phone number",
-            "email": "pmluhar411@gmail.com",
-            "emailAltText": "My email",
-            "address": "22, Berriton Road, Rayners Lane, HA2 9LT",
-            "addressAltText": "My address"
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Phone",
+            "email": "john@doe.com",
+            "emailAltText": "Email",
+            "address": "312 Lovely Street, NY",
+            "addressAltText": "Address",
+            "elementId": ""
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
