@@ -14,12 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      <div style="text-align: left">Dynamic and accomplished Computer
+      <div style="text-align: left">### Dynamic and accomplished Computer
       Engineering (Artificial Intelligence) graduate, recognized as a Gold
       Medalist for exceptional academic achievement. For 1 year, I worked as a
       data analyst at Ample Infotech. Proficient in leveraging AI and data
-      analysis to extract valuable insights for strategic decision-making.
-      </div>
+      analysis to extract valuable insights for strategic decision-making.</div>
 
     media:
       type: ImageBlock
