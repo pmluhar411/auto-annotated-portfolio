@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      <div style="text-align: left">#### Currently, I am an MSc Computer Science
+      <div style="text-align: left">### Currently, I am an MSc Computer Science
       Student at University College Birmingham.</div>
 
 
