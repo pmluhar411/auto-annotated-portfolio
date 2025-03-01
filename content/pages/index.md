@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: /info
+title: Prasad Luhar
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
