@@ -268,10 +268,6 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |+
-          **Current**
-
-          *   University College Birmingham, UK
-
           **2023**
 
           *   Data Analyst
@@ -283,10 +279,6 @@ sections:
           **2023**
 
           *   Ganpat University
-
-          **2019**
-
-          *   12th Science
 
         styles:
           self:
