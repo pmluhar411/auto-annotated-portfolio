@@ -52,6 +52,9 @@ sections:
     title: >-
       Currently, I am an MSc Computer Science Student at University College
       Birmingham.
+    subtitle: >-
+      Currently, I am an MSc Computer Science Student at University College
+      Birmingham.
   - type: DividerSection
     styles:
       self:
