@@ -13,11 +13,20 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+
+      Dynamic and accomplished Computer Engineering(AI) graduate, recognized as
+      a Gold Medalist for
+
+      exceptional academic achievement. For 1 year, I have worked as a Data
+      Analyst at Ample Infotech.
+
+      Proficient in leveraging AI and data analysis to extract valuable insights
+      for strategic decision-making.
+
+      Currently, I am an MSc Computer Science Student at University College
+      Birmingham.
+
     media:
       type: ImageBlock
       url: /images/Convo_Mine_Pic.jpg
