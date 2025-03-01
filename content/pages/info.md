@@ -174,7 +174,7 @@ sections:
         actions:
           - type: Link
             label: Whatshapp
-            url: 'https://www.instagram.com/'
+            url: 'https://www.whatshapp.com/'
         styles:
           self:
             textAlign: left
