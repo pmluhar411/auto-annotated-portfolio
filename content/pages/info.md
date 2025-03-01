@@ -173,7 +173,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
+            label: Whatshapp
             url: 'https://www.instagram.com/'
         styles:
           self:
