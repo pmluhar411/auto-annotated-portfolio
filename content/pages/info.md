@@ -53,9 +53,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     title: Prasad Luhar
-    subtitle: >-
-      Currently, I am an MSc Computer Science Student at University College
-      Birmingham, UK.
+    subtitle: ''
   - type: DividerSection
     styles:
       self:
