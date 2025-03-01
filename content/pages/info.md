@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     text: >+
       <div style="text-align: left">## Dynamic and accomplished Computer
       Engineering (Artificial Intelligence) graduate, recognized as a Gold
