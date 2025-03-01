@@ -267,26 +267,27 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   University College Birmingham, UK
 
-          **2018-2021**
+          **2023**
 
-          * fullstack at this startup
+          *   Data Analyst
 
-          **2015**
+          **2023**
 
-          * senior front-end at this place
+          *   Internship
 
-          **2013**
+          **2023**
 
-          * intern developer at a big company
+          *   Ganpat University
 
-          **2011**
+          **2019**
 
-          * flipping burgers
+          *   12th Science
+
         styles:
           self:
             textAlign: left
