@@ -13,20 +13,22 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-
+    text: >
       Dynamic and accomplished Computer Engineering(AI) graduate, recognized as
       a Gold Medalist for
 
-      exceptional academic achievement. For 1 year, I have worked as a Data
-      Analyst at Ample Infotech.
+      exceptional academic achievement. 
+
+
+      For 1 year, I have worked as a Data Analyst at Ample Infotech.
 
       Proficient in leveraging AI and data analysis to extract valuable insights
       for strategic decision-making.
 
+
+
       Currently, I am an MSc Computer Science Student at University College
       Birmingham.
-
     media:
       type: ImageBlock
       url: /images/Convo_Mine_Pic.jpg
