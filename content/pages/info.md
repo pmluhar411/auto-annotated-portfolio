@@ -50,6 +50,9 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: >-
+      Currently, I am an MSc Computer Science Student at University College
+      Birmingham.
   - type: DividerSection
     styles:
       self:
