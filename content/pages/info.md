@@ -231,7 +231,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Swift
+        label: D-jango
   - type: DividerSection
     styles:
       self:
