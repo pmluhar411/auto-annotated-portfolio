@@ -219,7 +219,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: React
+        label: Data Analyst
       - type: Label
         label: Microsoft Office
       - type: Label
