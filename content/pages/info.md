@@ -229,7 +229,7 @@ sections:
       - type: Label
         label: DAX
       - type: Label
-        label: C++
+        label: SQL
       - type: Label
         label: Swift
   - type: DividerSection
