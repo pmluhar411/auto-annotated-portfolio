@@ -14,34 +14,21 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      **Dynamic and accomplished Computer Engineering (Artificial Intelligence)
-      graduate, recognized as a Gold Medalist for
-
-      exceptional academic achievement.**
-
-      -----------------------------------
-
-
-      **For 1 year, I worked as a data analyst at Ample Infotech.
-
-      Proficient in leveraging AI and data analysis to extract valuable insights
-      for strategic decision-making.**
-
-      -----------------------------------------------------------------------------------------------------------
+      ## **Dynamic and accomplished Computer Engineering (Artificial
+      Intelligence) graduate, recognized as a Gold Medalist for exceptional
+      academic achievement. For 1 year, I worked as a data analyst at Ample
+      Infotech. Proficient in leveraging AI and data analysis to extract
+      valuable insights for strategic decision-making.**
 
 
       ## **Currently, I am an MSc Computer Science Student at University College
       Birmingham.**
 
 
-      ****
+      ***
 
 
       ##
-
-
-
-
 
     media:
       type: ImageBlock
