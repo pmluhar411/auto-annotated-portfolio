@@ -51,7 +51,7 @@ sections:
     title: Prasad Luhar
     subtitle: >-
       Currently, I am an MSc Computer Science Student at University College
-      Birmingham.
+      Birmingham, UK.
   - type: DividerSection
     styles:
       self:
