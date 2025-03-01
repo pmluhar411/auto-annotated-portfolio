@@ -227,7 +227,7 @@ sections:
       - type: Label
         label: Machine Learning
       - type: Label
-        label: Pancakes
+        label: DAX
       - type: Label
         label: C++
       - type: Label
