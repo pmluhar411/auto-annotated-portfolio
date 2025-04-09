@@ -95,7 +95,7 @@ sections:
         actions:
           - type: Link
             label: Email
-            url: 'https://codepen.io/'
+            url: pmluhar411@gmail.com
         styles:
           self:
             textAlign: left
