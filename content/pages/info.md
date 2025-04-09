@@ -202,17 +202,13 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |+
-          **2023**
+          **June 2023 - July 2024**
 
-          *   Data Analyst
+          *   Data Analyst, Ample Infotech
 
-          **2023**
+          **Jan 2023 - June 2023**
 
           *   Internship
-
-          **2023**
-
-          *   Ganpat University
 
         styles:
           self:
