@@ -205,6 +205,13 @@ sections:
           **June 2023 - July 2024**
 
           *   Data Analyst, Ample Infotech
+              *   Implemented advanced data analytics solutions resulting in a 25% improvement in decision-making accuracy
+
+              *   Developed and deployed machine learning models, achieving 90% prediction accuracy.
+
+              *   Created real-time interactive dashboards, reducing reporting time by 40%
+
+              *   Led cross-functional team collaborations, resulting in 35% faster project delivery
 
           **Jan 2023 - June 2023**
 
