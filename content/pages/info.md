@@ -79,7 +79,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://twitter.com/PrasadL35909'
         styles:
           self:
             textAlign: left
