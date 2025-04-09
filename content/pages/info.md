@@ -201,21 +201,37 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |+
+        text: >+
           **June 2023 - July 2024**
 
+
           *   Data Analyst, Ample Infotech
-              *   Implemented advanced data analytics solutions resulting in a 25% improvement in decision-making accuracy
+              *   Implemented advanced data analytics solutions, resulting in a 25% improvement in decision-making accuracy.
 
               *   Developed and deployed machine learning models, achieving 90% prediction accuracy.
 
-              *   Created real-time interactive dashboards, reducing reporting time by 40%
+              *   Created real-time interactive dashboards, reducing reporting time by 40%.
 
-              *   Led cross-functional team collaborations, resulting in 35% faster project delivery
+              *   Led cross-functional team collaborations, resulting in 35% faster project delivery.
 
           **Jan 2023 - June 2023**
 
-          *   Internship
+
+          *   Machine Learning Intern, Bhaskaracharya National Institute for
+          Space Applications and Geo-informatics
+              *   *   *   Developed machine learning models for geospatial data analysis, enhancing decision-making.*   Utilized computer vision to process satellite imagery, improving spatial analysis accuracy. *   Conducted data cleaning and modelling using SQL, ensuring data integrity and reliability.*   Collaborated with teams to communicate insights, supporting strategic planning.
+
+
+
+
+
+                      *   Developed and deployed machine learning models, achieving 90% prediction accuracy.*   Created real-time interactive dashboards, reducing reporting time by 40%*   Led cross-functional team collaborations, resulting in 35% faster project delivery
+
+
+
+
+
+
 
         styles:
           self:
