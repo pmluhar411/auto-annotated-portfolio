@@ -108,7 +108,7 @@ sections:
         actions:
           - type: Link
             label: Whatshapp
-            url: 'https://www.whatshapp.com/'
+            url: 'https://www.whatshapp.com/+44 7721991717'
         styles:
           self:
             textAlign: left
