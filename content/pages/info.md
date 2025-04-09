@@ -87,7 +87,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/luhar-prasad-pm411'
         styles:
           self:
             textAlign: left
